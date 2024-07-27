@@ -2,6 +2,8 @@
   "name": "otp-form",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sudeepgouda26.github.io/Assignment",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -24,3 +26,5 @@
     "vite": "^5.3.4"
   }
 }
+
+
