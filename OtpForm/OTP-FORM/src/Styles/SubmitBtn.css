@@ -1,0 +1,17 @@
+.submit-button{
+    padding:9px 13px;
+    color: black;
+    font-size: 1rem;
+    border-radius: 5px;
+    box-shadow:  6px 0px 10px;
+    cursor: pointer;
+}
+ .submit-button::before{
+    font-size: 0.6rem;
+ padding:  8px 13px;
+
+}
+.submit-button:hover{
+    background-color: orangered;
+    padding:12px,13px; 
+}
